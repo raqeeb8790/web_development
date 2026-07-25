@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Image tag</title>
+
+    </head>
+    <body>
+        <img scr="boy1.jpg" alt="boy dp image" height="300px" title="this is a boy cartoon image" width="300px">
+    <hr>
+    <marquee direction="right" scrollamount="20" behavior="scroll" bgcolor="pink" loop="3"> <h1> hello</h1></marquee>
+    </body>
+</html>
