@@ -1,0 +1,11 @@
+<html>
+<head>
+	<title>tags</title>
+</head>
+<body>
+	<h1 align ="center"> the text is in center</h1>
+	<h1 align ="left"> the text is on left</h1>
+	<h1 align ="right"> the text is on right</h1>
+	<font color="red" size="7" face="impact"> The font is in red colour</font>
+</body>
+</html>
