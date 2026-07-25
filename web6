@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>My animation</title>
+</head>
+    <style>
+        body{
+            background-repeat: no-repeat;
+            background-size: cover;
+        }
+    </style>
+</head>
+<body background="road.jpg">
+    <marquee behaviour="" direction="">
+        <img scr="bird.gif">
+    </marquee>
+</body>
+</html>
