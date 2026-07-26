@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>mail to anchor tag</title>
+</head>
+<body>
+    <h1 align="center">mail to anchor tag</h1>
+    <a href="mailto: raqeeb8790@gmail.com? subject=query is">click here to mail me</a>
+    
+</body>
+</html>
