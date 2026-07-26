@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>List</title>
+</head>
+<body>
+    <h1> Ordered List</h1>
+    <ol type="1" start="3">
+        <li>abdul raqeeb</li>
+        <li>amaan</li>
+        <li>fahad</li>
+        <li>faisal</li>
+    </ol>
+     <h1> Unordered List</h1>
+    <ul type="square">
+        <li>abdul raqeeb</li>
+        <li>amaan</li>
+        <li>fahad</li>
+        <li>faisal</li>
+    </ul>
+    <h1 align="center"> Descripton list</h1>
+    <hr>
+    
+    <dl>
+       <font size="6"><dt>black</dt></font> 
+        <font size="5"><dd>black is my favorite colour</dd></font>
+        <font size="6"><dt>blue</dt></font> 
+        <font size="5"><dd>blue is the colour of sky</dd></font>
+    
+    </dl>
+    
+</body>
+</html>
