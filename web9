@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>anchor tag</title>
+</head>
+<body bgcolor="green">
+    <h1 align="center"> These are my project links</h1>
+    <a href="file:///C:/Users/user/Documents/web%20devp/demo.html"> This is my first project</a><br><br>
+    <a href="file:///C:/Users/user/Documents/web%20devp/web2.html"> This is my second project</a><br><br>
+    <a href="file:///C:/Users/user/Documents/web%20devp/web3.html"> This is my third project</a><br><br>
+    <a href="file:///C:/Users/user/Documents/web%20devp/web4.html"> This is my fourth project</a><br><br>
+    <a href="file:///C:/Users/user/Documents/web%20devp/web5.html"> This is my fifth project</a><br><br>
+    <a href="file:///C:/Users/user/Documents/web%20devp/web6.html"> This is my sixth project</a><br><br>
+    <a href="file:///C:/Users/user/Documents/web%20devp/web7.html"> This is my seventh project</a><br><br>
+    <a href="file:///C:/Users/user/Documents/web%20devp/web8.html" target="_blank"> This is my eighth project</a><br><br>
+    
+    
+</body>
+</html>
