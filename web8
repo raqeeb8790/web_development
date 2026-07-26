@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>anchor tag</title>
+</head>
+<body bgcolor="yellow">
+    <h1 align="center"> Anchor tag external link</h1>
+    <a href="https://www.google.com/">click here to open google</a><br>
+    <a href="https://github.com/raqeeb8790">This is my github link</a>
+    
+</body>
+</html>
