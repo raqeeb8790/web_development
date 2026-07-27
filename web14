@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table Tags</title>
+</head>
+<body bgcolor="blue"> <br><br>
+    <table border="2" height="300px" width="400px" align="center" bgcolor="red">
+        <tr bgcolor="yellow">
+            <td valign="top">Lorem ipsum dolor sit amet.</td>
+            <td valign="bottom">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Laborum, eaque.</td>
+        </tr>
+        <tr bgcolor="yellow">
+            <td valign="bottom">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam, est?</td>
+            <td valign="top">Lorem ipsum dolor sit amet consectetur adipisicing elit.</td>
+        </tr>
+    </table>
+    
+</body>
+</html>
