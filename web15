@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table colspan</title>
+</head>
+<body> 
+    <h1>Table colspan and rowspan</h1> <br> <br>
+    <table border="1" align="left" heigth="200px" width="300px">
+        <tr>
+            <td>1</td>
+            <td>2</td>
+            <td >3</td>
+        </tr>
+         <tr>
+            <td colspan="3">4</td>
+          
+        </tr>
+        <tr>
+            <td>5</td>
+            <td colspan="2">6</td>
+        </tr>
+    </table>
+
+    
+    <table border="1" align="center" heigth="200px" width="300px">
+        <tr>
+            <td>1</td>
+            <td>2</td>
+            <td rowspan="3">3</td>
+        </tr>
+         <tr>
+            <td >4</td>
+            <td rowspan="2">5</td>
+        </tr>
+        <tr>
+            
+            <td>6</td>
+        </tr>
+    </table>
+</body>
+</html>
