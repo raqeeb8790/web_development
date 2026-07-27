@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <title>Table Tags</title>
+</head>
+<body>
+    <h1>Table rows and columns</h1>
+    <table align="center" border="5" bgcolor="blue" height="200px" width="200px" cellspacing="20px" cellpadding="20px">
+        <tr bgcolor="green">
+            <td>A</td>
+            <td>B</td>
+        </tr>
+        <tr bgcolor="red">
+            <td>D</td>
+            <td>C</td>
+        </tr>
+    </table>
+    
+</body>
+</html>
