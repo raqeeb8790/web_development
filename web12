@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Table tag</title>
+</head>
+<body>
+    <h1>table 1</h1>
+    <table border="5" bgcolor="green">
+        <tr>
+            <td bgcolor="blue">A</td>
+        </tr>            
+    </table>
+<br>
+    <table border="10" bgcolor="yellow">
+        <tr>
+            <td>A</td>
+            <td>B</td>
+        </tr>
+    </table>
+</body>
+</html>
