@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>audio and video tag</title>
+</head>
+<body>
+    <h1>Hello, welcome to my playlist</h1>
+    <audio src="Sitaare Ikkis 128 Kbps.mp3" controls muted loop align="right"></audio>
+    <br> <br>
+    <center>
+           <video src="horse running.mp4" controls height="200px" width="200px" align="right"></video>
+    </center>
+ 
+</body>
+</html>
