@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>External CSS</title>
+    <link rel="stylesheet" href="style1.css">
+</head>
+<body>
+    <h1>Heading 1</h1>
+    <h1>Heading 2</h1>
+    
+</body>
+</html>
+
+
+
+
+h1{
+    color:aqua;
+}
