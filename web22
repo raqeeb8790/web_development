@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Internal CSS</title>
+    <style>
+        h1{
+            color: aqua;
+        }
+        p{
+            background-color: blue;
+        }
+    </style>
+</head>
+<body>
+    <h1>Heading 1</h1>
+    <h1>Heading 2</h1>
+    <h1>Heading 3</h1>
+    <p>para 1</p>
+    <p>para 2</p>
+    <p>para 3</p>
+    
+</body>
+</html>
