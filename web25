@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html >
+<head>
+    <title>outline</title>
+    <style>
+        h1{
+            border: 2px solid red;
+            height: 100px;
+            width: 200px;
+            outline-width: 2px;
+            outline-style: solid;
+            outline-color: black;
+            border-radius: 12px;
+            padding: 50px;
+            margin-top: 50px;
+        }
+        h2{
+             border: 2px solid red;
+            height: 100px;
+            width: 200px;
+             outline-width: 2px;
+            outline-style: solid;
+            outline-color: black;
+            border-radius: 12px;
+            padding: 50px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Hello everyone</h1>
+    <h2>Hello 2</h2>
+    
+</body>
+</html>
