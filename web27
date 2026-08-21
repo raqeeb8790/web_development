@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <title>position property</title>
+      <style>
+        div.d1{
+            height: 200px;
+            width: 200px;
+            background-color: cyan;
+        }
+         div.d2{
+            height: 200px;
+            width: 200px;
+            background-color: red;
+            position: sticky;
+        }
+      </style>
+</head>
+<body>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque debitis repellendus et sequi, illo vel doloribus ratione quis 
+        ducimus? Amet doloribus reiciendis id voluptate excepturi rerum ea soluta dolore iste perferendis assumenda error t
+        empora alias ab facilis nemo omnis fugiat similique itaque, consequatur odit sint! Suscipit incidunt eligendi nisi quaerat.</p>
+    <div class="d1">1</div>
+    <div class="d2">2</div>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Atque debitis repellendus et sequi, illo vel doloribus ratione quis 
+        ducimus? Amet doloribus reiciendis id voluptate excepturi rerum ea soluta dolore iste perferendis assumenda error t
+        empora alias ab facilis nemo omnis fugiat similique itaque, consequatur odit sint! Suscipit incidunt eligendi nisi quaerat.</p>
+    
+</body>
+</html>
